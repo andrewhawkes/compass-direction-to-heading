@@ -1,0 +1,22 @@
+{
+  "name": "compass-direction-to-heading",
+  "version": "1.0.0",
+  "description": "A simple JavaScript helper to convert a 16-wind compass direction to a degrees heading",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewhawkes/compass-direction-to-heading.git"
+  },
+  "keywords": [
+    "heading",
+    "compass",
+    "degrees",
+    "wind"
+  ],
+  "author": "Andrew Hawkes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewhawkes/compass-direction-to-heading/issues"
+  },
+  "homepage": "https://github.com/andrewhawkes/compass-direction-to-heading#readme"
+}
