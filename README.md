@@ -12,6 +12,13 @@ console.log(heading); // 338
 
 ```
 
+## Installation
+
+### [NPM](https://www.npmjs.com/package/compass-direction-to-heading) 
+`npm i compass-direction-to-heading`
+
+
+
 ## Docs
 
 The helper function accepts a string (any case) containing one of the 16 point values:
