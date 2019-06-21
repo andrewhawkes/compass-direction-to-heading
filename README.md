@@ -4,7 +4,7 @@ A simple JavaScript helper to convert a [16-wind](https://en.wikipedia.org/wiki/
 ## Example Usage
 
 ```
-import compassToHeading from 'compassToHeading';
+import compassToHeading from 'compass-direction-to-heading';
 
 const heading = compassToHeading('NNW'); // Returns int 338
 
